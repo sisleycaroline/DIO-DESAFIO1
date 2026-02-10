@@ -10,7 +10,7 @@ Aplicar os conceitos de Excel no desenvolvimento de uma ferramenta prática de s
 
 1º Passo:
 
-Definir as perguntas de negócio:
+Definir as perguntas de negócio </p>
 Por que isso está sendo feito? Resposta: Simular investimentos em fundos imobiliários.
 Quais informações eu preciso para fazer essas simulações? Resposta: Taxa de Rendimento Mensal, Por quantos Anos/Meses, Quanto investir por mês, Tipos de FII existentes.
 Quais informações terei como resultado dessas simulações? Resposta: Patrimônio acumulado no tempo estimado e Dividendos mensais.
