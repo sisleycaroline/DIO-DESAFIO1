@@ -1,5 +1,5 @@
 ## Desafio - Ferramenta de Controle de Investimentos com Excel
-Olá!
+Olá!</p>
 Me chamo Sisley e vou detalhar um pouco sobre o primeiro Desafio do Bootcamp da Dio. Foi solicitada a criação de uma planilha para ajudar o usuário na simulação de investiments em fundos imoobiliários, aplicando os conceitos de Excel no desenvolvimento dessa ferramenta. A seguir, detalho como foi feito o passo a passo dessa ferramenta.</p>
 
 ## 📌 Objetivo
@@ -21,13 +21,24 @@ Além dessas informações, quais outras são necessárias para a ferramenta? Re
 2º Passo:</p>
 
 Após definir perguntas de negócio, criar um fluxograma lógico para dar andamento no projeto.</p>
-3º Passo:
 
-Separar em blocos as informações da ferramenta</p>
-INFORMAÇÕES GERAIS</p>
-INVESTIMENTO</p>
-CENÁRIOS</p>
-PERFIL DO INVESTIDOR</p>
+3º Passo:</p>
+
+Separar em blocos as informações da ferramenta: </p>
+- INFORMAÇÕES GERAIS</p>
+- INVESTIMENTO</p>
+- CENÁRIOS</p>
+- PERFIL DO INVESTIDOR</p>
+
+4º Passo: </p>
+
+Definir quais informações aparecem em cada bloco: </p>
+INFORMAÇÕES GERAIS: Salário, Rendimento Carteira, Sugestão de investimento.</p>
+INVESTIMENTO: Quanto investir por mês; Por quantos anos; Taxa de rendimento mensal; Patrimônio acumulado; Dividendos mensais</p>
+CENÁRIOS: Quanto em 2 anos; Por quantos anos; Taxa de rendimento mensal, patrimônio acumulado; dividendos mensais </p>
+
+
+º Passo:
 Montar Layout da Tabela no Excel</p>
 Aplicar fórmulas e testar seus resultados</p>
 Unanimidade visual, ou seja, deixar sua ferramenta visualmente coerente e agradável (transmite confiança no trabalho).</p>
