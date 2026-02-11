@@ -67,3 +67,7 @@ Aplicar ajustes finos para que a ferramenta fique 100%.
 
 ## 📚 Aprendizados
 Primeiramente: não conhecia muito sobre fundos de investimentos e através desse desse desafio pude conhecer e entender como funciona. Além disso, não tinha conhecimento sobre fundos imobiliários e seus tipos, já foi um incremento em meu conhecimento. Foi bem interessante explorar um pouco mais do Excel, ir além do básico e usar diferentes fórmulas e designs.<br>
+
+## Arquivos complementares
+https://github.com/sisleycaroline/DIO-DESAFIO1/tree/main/images 
+
