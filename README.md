@@ -17,6 +17,7 @@ Quais perfis possíveis para esse investidor? Resposta: Moderado, Agressivo<br>
 Além dessas informações, quais outras são necessárias para a ferramenta? Resposta: Salário, Sugestão de investimento (% com base no salário)<br>
 É necessário uma demonstração gráfica? Resposta: Sim <br>
 É necessário calcular Cenários? Resposta: Não é algo extremamente necessário, mas um detalhe a mais para que o usuário possa fazer projeções futuras de forma rápida e prática.<br>
+
 2º Passo:<br>
 
 Após definir perguntas de negócio, criar um fluxograma lógico para dar andamento no projeto.<br>
@@ -33,8 +34,8 @@ Separar em blocos as informações da ferramenta:<br>
 
 Definir quais informações aparecem em cada bloco: <br>
 INFORMAÇÕES GERAIS: Salário, Rendimento Carteira, Sugestão de investimento.<br>
-INVESTIMENTO: Quanto investir por mês; Por quantos anos; Taxa de rendimento mensal; Patrimônio acumulado; Dividendos mensais<br>
-CENÁRIOS: Quanto em x anos; Montante; Dividendo <br>
+INVESTIMENTO: Quanto investir por mês;Taxa de rendimento mensal<br>
+CENÁRIOS: Quanto em x anos; Patrimônio acumulado; Dividendo <br>
 
 5º Passo:<br>
 Montar Layout da Tabela no Excel<br>
